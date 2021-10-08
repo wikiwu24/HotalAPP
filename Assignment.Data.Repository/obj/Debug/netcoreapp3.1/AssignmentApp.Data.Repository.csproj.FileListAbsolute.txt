@@ -1,0 +1,13 @@
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Repository\bin\Debug\netcoreapp3.1\AssignmentApp.Data.Repository.deps.json
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Repository\bin\Debug\netcoreapp3.1\AssignmentApp.Data.Repository.dll
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Repository\bin\Debug\netcoreapp3.1\AssignmentApp.Data.Repository.pdb
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Repository\bin\Debug\netcoreapp3.1\AssignmentApp.Data.Model.dll
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Repository\bin\Debug\netcoreapp3.1\AssignmentApp.Data.Model.pdb
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Repository\obj\Debug\netcoreapp3.1\AssignmentApp.Data.Repository.csproj.AssemblyReference.cache
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Repository\obj\Debug\netcoreapp3.1\AssignmentApp.Data.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Repository\obj\Debug\netcoreapp3.1\AssignmentApp.Data.Repository.AssemblyInfoInputs.cache
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Repository\obj\Debug\netcoreapp3.1\AssignmentApp.Data.Repository.AssemblyInfo.cs
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Repository\obj\Debug\netcoreapp3.1\AssignmentApp.Data.Repository.csproj.CoreCompileInputs.cache
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Repository\obj\Debug\netcoreapp3.1\AssignmentApp.Data.Repository.csproj.CopyComplete
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Repository\obj\Debug\netcoreapp3.1\AssignmentApp.Data.Repository.dll
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Repository\obj\Debug\netcoreapp3.1\AssignmentApp.Data.Repository.pdb
