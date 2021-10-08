@@ -1,0 +1,10 @@
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Model\bin\Debug\netcoreapp3.1\AssignmentApp.Data.Model.deps.json
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Model\bin\Debug\netcoreapp3.1\AssignmentApp.Data.Model.dll
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Model\bin\Debug\netcoreapp3.1\AssignmentApp.Data.Model.pdb
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Model\obj\Debug\netcoreapp3.1\AssignmentApp.Data.Model.csproj.AssemblyReference.cache
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Model\obj\Debug\netcoreapp3.1\AssignmentApp.Data.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Model\obj\Debug\netcoreapp3.1\AssignmentApp.Data.Model.AssemblyInfoInputs.cache
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Model\obj\Debug\netcoreapp3.1\AssignmentApp.Data.Model.AssemblyInfo.cs
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Model\obj\Debug\netcoreapp3.1\AssignmentApp.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Model\obj\Debug\netcoreapp3.1\AssignmentApp.Data.Model.dll
+C:\Users\wuke9\OneDrive\DeskTop\Training\ChicagoSPE2021\AssignmentApp\Assignment.Data.Model\obj\Debug\netcoreapp3.1\AssignmentApp.Data.Model.pdb
